@@ -11,30 +11,20 @@ namespace Patrones.Prototype.UI
     {
         static void Main(string[] args)
         {
+            Guerrero insecto = new Guerrero();
+            insecto.Descripcion = "Guerrero";
+            insecto.Edad = 30;
+            insecto.Nombre = "Tarhh";
+            insecto.Poder = 1930;
+            Console.WriteLine(insecto.ToString());
+            Console.WriteLine("===========");
+            Guerrero insectocopia = insecto.ClonacionProfunda() as Guerrero;
+            insectocopia.Edad = 998;
+            Console.WriteLine(insectocopia.ToString());
+            Console.WriteLine("===========");
+            Console.WriteLine(insecto.ToString());
 
-            EnemigoPrototype prototipoInsecto = new InsectoPrototype();
-            EnemigoPrototype prototipoRobot = new RobotPrototype();
-       
 
-            EnemigoPrototype insecto1 = prototipoInsecto.Clonar();
-            insecto1.Nombre = "Mantis";
-            insecto1.Color = "Azul";
-            Console.WriteLine(insecto1.VerEnemigo());
-
-            EnemigoPrototype insecto2 = prototipoInsecto.Clonar();
-            insecto2.Nombre = "Escarabajo";
-            insecto2.Color = "Violeta";
-            Console.WriteLine(insecto2.VerEnemigo());
-
-            EnemigoPrototype robot1 = prototipoRobot.Clonar();
-            robot1.Nombre = "Robot miniatura";
-            robot1.Color = "Oro";
-            Console.WriteLine(robot1.VerEnemigo());
-
-            EnemigoPrototype robot2 = prototipoRobot.Clonar();
-            robot2.Nombre = "Robot humano";
-            robot2.Color = "Plateado";
-            Console.WriteLine(robot2.VerEnemigo());
 
             Console.ReadKey();
         }

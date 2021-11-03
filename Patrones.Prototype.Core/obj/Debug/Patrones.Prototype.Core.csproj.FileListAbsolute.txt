@@ -4,3 +4,15 @@ E:\unity\Patrones-Prototype\patr-n-prototype-en-csharp\Patrones.Prototype\Patron
 E:\unity\Patrones-Prototype\patr-n-prototype-en-csharp\Patrones.Prototype\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.csproj.CoreCompileInputs.cache
 E:\unity\Patrones-Prototype\patr-n-prototype-en-csharp\Patrones.Prototype\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.dll
 E:\unity\Patrones-Prototype\patr-n-prototype-en-csharp\Patrones.Prototype\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.pdb
+E:\unity\quark\Patrones\Patrones-Prototype\Patrones.Prototype.Core\bin\Debug\Patrones.Prototype.Core.dll
+E:\unity\quark\Patrones\Patrones-Prototype\Patrones.Prototype.Core\bin\Debug\Patrones.Prototype.Core.pdb
+E:\unity\quark\Patrones\Patrones-Prototype\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-Prototype\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-Prototype\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.dll
+E:\unity\quark\Patrones\Patrones-Prototype\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.pdb
+E:\unity\quark\Patrones\Patrones-Prototype-Deep-Clone\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-Prototype-Deep-Clone\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-Prototype-Deep-Clone\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.dll
+E:\unity\quark\Patrones\Patrones-Prototype-Deep-Clone\Patrones.Prototype.Core\obj\Debug\Patrones.Prototype.Core.pdb
+E:\unity\quark\Patrones\Patrones-Prototype-Deep-Clone\Patrones.Prototype.Core\bin\Debug\Patrones.Prototype.Core.dll
+E:\unity\quark\Patrones\Patrones-Prototype-Deep-Clone\Patrones.Prototype.Core\bin\Debug\Patrones.Prototype.Core.pdb
