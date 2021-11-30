@@ -11,18 +11,18 @@ namespace Patrones.Prototype.UI
     {
         static void Main(string[] args)
         {
-            Guerrero insecto = new Guerrero();
-            insecto.Descripcion = "Guerrero";
-            insecto.Edad = 30;
-            insecto.Nombre = "Tarhh";
-            insecto.Poder = 1930;
-            Console.WriteLine(insecto.ToString());
+            Guerrero guerrero = new Guerrero();
+            guerrero.Descripcion = "Guerrero";
+            guerrero.Edad = 30;
+            guerrero.Nombre = "Tarhh";
+            guerrero.Poder = 1930;
+            Console.WriteLine(guerrero.ToString());
             Console.WriteLine("===========");
-            Guerrero insectocopia = insecto.ClonacionProfunda() as Guerrero;
-            insectocopia.Edad = 998;
-            Console.WriteLine(insectocopia.ToString());
+            Guerrero guerreroCopia = guerrero.ClonacionProfunda() as Guerrero;
+            guerreroCopia.Edad = 998;
+            Console.WriteLine(guerreroCopia.ToString());
             Console.WriteLine("===========");
-            Console.WriteLine(insecto.ToString());
+            Console.WriteLine(guerrero.ToString());
 
 
 

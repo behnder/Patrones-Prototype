@@ -1,2 +1,3 @@
 Prototype
--Es un patrón creacional que te permite copiar objetos sin hacer que tu código dependa de sus clases.
+
+Prototype es un patrón de diseño creacional que nos permite copiar objetos existentes sin que el código dependa de sus clases.
